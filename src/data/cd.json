@@ -1,0 +1,14 @@
+{
+  "x": "Réagit dangereusement avec l'eau",
+  "X": "Réagit dangereusement avec l'eau",
+  "0": "Absence de danger",
+  "1": "Explosion",
+  "2": "Emanation de gaz",
+  "3": "Liquide inflammable",
+  "4": "Solide inflammable",
+  "5": "Matière comburante",
+  "6": "Matière toxique",
+  "7": "Matière radioactive",
+  "8": "Matière corrosive",
+  "9": "Danger de réaction violente spontanée"
+}

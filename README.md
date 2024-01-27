@@ -1,2 +1,2 @@
 # CMIC
-Online Cmicoscope for European Rescues Departements
+Online Cmicoscope, for Europeen Union Rescues Departements.
